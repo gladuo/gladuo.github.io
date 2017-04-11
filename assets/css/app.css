@@ -1,0 +1,51 @@
+#profile {
+	padding: 15vh 0 0 30vh;
+}
+
+#headshot {
+	width: 15rem;
+}
+
+#name {
+	width: 15rem;
+	text-align: center;
+	letter-spacing: .3rem;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+
+#nav .nav-item {
+	padding: 0 1rem;
+	text-transform: uppercase;
+}
+
+#resume-btn {
+	width: 15rem;
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+
+#social a{
+	color: black;
+}
+
+#bio {
+	padding: 15vh 35vh 0 0;
+	text-align: justify;
+	font-weight: 400;
+}
+
+@media only screen and (max-width: 767px){
+	#profile {
+		padding: 15vh 0 5vh 0;
+		text-align: center;
+	}
+	
+	#name {
+		width: 100%;
+	}
+	
+	#bio {
+		padding: 10vh 8vh;
+	}
+}
