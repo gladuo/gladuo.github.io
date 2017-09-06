@@ -14,7 +14,8 @@
 *******************************/
 
 /*@import url('https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin');*/
-@import url('https://fonts.lug.ustc.edu.cn/css?family=Josefin Sans:300,400');
+/*@import url('https://fonts.lug.ustc.edu.cn/css?family=Josefin Sans:300,400');*/
+@import url('Josefin Sans.css');
 html,
 body {
   height: 100%;
